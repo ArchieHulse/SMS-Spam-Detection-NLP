@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NLP%20Image.jpeg"
+  <img src="SMS-Spam-Detection-NLP/NLP%20Image.jpeg"
        alt="SMS Spam Detection using Natural Language Processing"
        width="850">
 </p>
