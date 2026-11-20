@@ -1,19 +1,7 @@
-# SMS Spam Detection NLP
-
 <p align="center">
   <img src="NLP%20Image.jpeg"
        alt="SMS Spam Detection using Natural Language Processing"
        width="850">
-</p>
-
-## Project Overview
-
-# SMS Spam Detection NLP
-
-<p align="center">
-  <img src="NLP Image.jpeg"
-       alt="SMS Spam Detection using Natural Language Processing"
-       width="900">
 </p>
 
 # SMS Spam Detection using Natural Language Processing
